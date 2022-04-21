@@ -1,0 +1,13 @@
+[-] 0.000244   CAN 1   VCU_HV_DrvSys_status   CAN Frame    Tx  D9    8     57 01 00 00 00 00 00 00
+[-] 0.004584   CAN 1   BCM_LIGHT   CAN Frame    Tx  106    8     0A 00 00 00 00 00 00 00
+[-] 0.000244   CAN 1   ESC_STATUS   CAN Frame    Tx  20D    8     57 01 00 00 00 00 00 00
+[-] 0.019839   CAN 1   BCM_CLAMP_STAT   CAN Frame    Tx  112    8     D9 06 00 04 00 00 00 00
+[-] 0.000156   CAN 1   BCM_LOGICAL_CLAMP   CAN Frame    Tx  102    3     E1 46 00
+[-] 0.018644   CAN 1   XGW_NM   CAN Frame    Tx  502    8     00 00 FF FF FF FF FF FF
+[-] 0.000242   CAN 1   VCU_MHU_info   CAN Frame    Tx  43A    8     D9 06 00 00 00 00 00 00
+[-] 0.000252   CAN 1   ADAS_WarnMsg   CAN Frame    Tx  4C0    8     3E 05 00 00 00 00 00 00
+[-] 0.000252   CAN 1   VCU_WarnMsg   CAN Frame    Tx  4AC    8     3E 05 00 00 00 00 00 00
+[-] 0.000248   CAN 1   ESC_WarnMsg   CAN Frame    Tx  4A9    8     3E 05 00 00 00 00 00 00
+[-] 0.000252   CAN 1   ACM_WarnMsg   CAN Frame    Tx  488    8     3E 05 00 00 00 00 00 00
+[-] 0.000248   CAN 1   BCM_WarnMsg   CAN Frame    Tx  481    8     3E 05 00 00 00 00 00 00
+[-] 0.000250   CAN 1   MFS_Control_Button   CAN Frame    Tx  3F7    8     00 00 00 00 00 00 00 00
