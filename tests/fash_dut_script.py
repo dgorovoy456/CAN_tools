@@ -5,7 +5,7 @@ import subprocess
 
 subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'python-can'])
 
-Signal = ['[-] 0.000244   CAN 1   VCU_HV_DrvSys_status   CAN Frame    Tx  D9    8     57 01 00 00 00 00 00 00']
+Signal = []
 
 
 def parce_dump_file(signal):

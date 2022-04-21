@@ -7,11 +7,6 @@ from utils_can_controller import send_can_message, gear_r_is_enable
 
 
 def run_test():
-    # b = a
-    # a = b
-    # print(a)
-    # print(b)
-
 
     # send_can_message(CLICK_CL151)
     # print(gear_r_is_enable('0000'))

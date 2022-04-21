@@ -33,4 +33,3 @@ def enable_red_light(arduino_serial):
 if __name__ == '__main__':
     a = enable_blue_light(arduino_serial)
     print(a)
-    # read_from_port(arduino_serial, '/home/dhorovyi/arser.log')
